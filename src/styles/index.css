@@ -1,0 +1,20 @@
+:root {
+    --breakpoint-tablet: 768px;
+    --breakpoint-laptop: 1024px;
+    --breakpoint-desktop: 1280px;
+    --breakpoint-fhd: 1536px;
+    --breakpoint-2k: 2560px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .top-registry {
+        font-size: 80%;
+        line-height: 80%; /* Adjust the value as needed */
+        vertical-align: top;
+    }
+}
+
