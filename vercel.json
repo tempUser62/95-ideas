@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "http://95-ideas.com/(.*)",
-      "destination": "https://95-ideas.com/$1",
-      "permanent": true
-    }
-  ]
-}
