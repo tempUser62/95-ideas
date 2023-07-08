@@ -32,6 +32,7 @@ section.home {
 }
 
 /* HOMEPAGE */
+
 .home-content {
   position: relative;
   z-index: 10;
