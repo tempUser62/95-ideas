@@ -21,7 +21,7 @@
               class="w-52 mt-2" />
           </div>
           <div class="justify-self-end text-gray-500 mt-2">
-            2023 {{ companyName }} LTD. All rights reserved
+            2023 {{ legalName }}. All rights reserved
           </div>
         </div>
 
@@ -73,6 +73,7 @@ import LogoIcon from '@/components/icons/Logo.vue';
 import SocialChat from '@/components/Chat/SocialChat.vue';
 
 const companyName = import.meta.env.VITE_COMPANY_NAME as string;
+const legalName = import.meta.env.VITE_LEGAL_NAME as string;
 const companyShortName = import.meta.env.VITE_COMPANY_SHORT_NAME as string;
 
 const emails = [
