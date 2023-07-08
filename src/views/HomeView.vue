@@ -27,7 +27,7 @@
 section.home {
   flex-direction: row;
   @media (min-width: 768px) {
-    min-height: 1130px;
+    min-height: 1188px;
   }
 }
 

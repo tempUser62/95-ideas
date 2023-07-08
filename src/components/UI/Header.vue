@@ -1,6 +1,11 @@
 <template>
   <div class="flex items-center w-screen h-16 border-b">
-    <div class="logo">{{ companyName }}</div>
+    <div class="logo">
+      <img src="@/assets/svg/logo-home.svg" alt="logo" class="hidden md:block w-[470px]" />
+      <span class="md:hidden sm:text-4xl">
+      {{ companyName }}
+      </span>
+    </div>
     <div class="toggle" @click="toggleActive"></div>
     <div class="navigation" :class="{ active: isActive }">
       <ul>
