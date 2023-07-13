@@ -72,7 +72,7 @@ import LogoIcon from '@/components/icons/Logo.vue';
 
 import SocialChat from '@/components/Chat/SocialChat.vue';
 
-const companyName = import.meta.env.VITE_COMPANY_NAME as string;
+// const companyName = import.meta.env.VITE_COMPANY_NAME as string;
 const legalName = import.meta.env.VITE_LEGAL_NAME as string;
 const companyShortName = import.meta.env.VITE_COMPANY_SHORT_NAME as string;
 
