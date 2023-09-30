@@ -54,9 +54,9 @@
             </span>
           </div>
           <div class="text-gray-400 mb-2">
-            Ukraine: Melnikova 12, Office 33, Kyiv 04050
+            Ukraine: Tykhyi lane 3 ap. 3, 69063 Zaporizhzhia
           </div>
-          <div class="text-gray-400">Poland: Pomorska 43, 50-216 Wrocław</div>
+          <div class="text-gray-400">Lithuania: A. Smetonos g. 3, 01115 Vilnius</div>
         </div>
       </div>
     </div>
